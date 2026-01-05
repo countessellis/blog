@@ -1,0 +1,33 @@
+# Sensors, Perception, and Intelligence
+=> index.gmi Bethany Davis
+September 25, 2025
+
+A post by July on Farcaster got me thinking about natural and artificial sensors, and to what level how a creature perceives the world determines what intelligence means in that context. By limiting our understanding of intelligence to what we perceive as the norm for human intelligence based on what we perceive as the norm for human senses, we limit our understanding of what intelligence means.
+
+The human eye has two categories of sensors.
+
+One detects brightness (we usually say black and white) like panchromatic imagery sensors. We refer to these in eyes as rods. This allows us to differentiate things, and to see depth. And it they improve night vision when colours are less visible.
+
+The other category detects different colours, each type like a channel in multispectrum sensors. I have tetrachomatic vision, in effect like a four channel multispectrum sensor. Most people have three channels, what we call red, yellow, and blue cones. My friend with red/green colourblindness has in effect two, some only one. The degree of colour differentiation isn’t a measure of quality but affects how each person sees the world.
+
+Multispectrum gives us different information than panchromatic. Just as with electronic processing of digital imagery, our brain overlays the shades of light that gives us depth and differentiation with the colours that help us understand the nature of things. With only panchromatic, we’d lack information about objects, and without panchromatic, everything would bleed together like watercolour.
+
+Some non-human creatures can see outside the range of the human eye, what we call visible light because we define what’s normal by what we can see. But as the colour blindness discussion lays out, what’s “normal” is really based on a subset of humans. Outside the “visible”!range, some creatures can see a portion of ultraviolet or infrared.
+
+In imagery, we use infrared to capture heat signatures and other traits not available within “normal” ranges. SWIR (short-wave infrared) is the closest to the accepted human range. The human eye can pick up a a portion of SWIR with red sensors, but the brain has limited ability to process it. Some creatures are very good in this range, others have limited to no “red” perception. SWIR is good in understanding surface temperature and reflected heat, among other things. As you get into MWIR (mid wave infrared) and LWIR (long wave infrared) you get more and more data about the heat of an object and less and less reflected. Very few creatures can see into these ranges. Infrared is great for night vision, but also for heat signatures and analyzing combustion and explosions, but not as good at defining objects and textures.
+
+Ultraviolet on the other end is also seen by some non-human creatures, and once again, the human eye can sometimes see into this range but the brain isn’t the best at processing it. This is with the “blue” sensors in human eyes. Ultraviolet is used less in imagery in general, but useful for medical applications, forensics, and astronomy. Like with IR, there is SWUV, MWUV, and LWUV, with LWUV being the closest to “visible” and is the range some creatures can see into. UV radiation from flowers attract certain insects, and UV vision markings on creatures provide identification. Sunlight provides a fair amount of UV, which reflects off objects like other ranges. Beyond a certain point, air doesn’t allow UV to pass.
+
+But imagery sensors aren’t limited to these types of methods. LiDAR (light detection and ranging) bounced light off objects and reads the return time. Likewise radar (radio detection and ranging) bounces radio waves off. Synthetic aperture radar (SAR) uses radar to construct imagery, just as LiDAR does. Because different frequencies of light or radio wave can pass through different substances, different frequencies of LiDAR or SAR can get information “visible”, IR, and UV sensors can’t. And because they are typically active (sending then receiving a reflection of the transmission, not just receiving) instead of passive (just receiving), they can be used without existing light. Time to return, dopler effect, and spectrum shift can be used with both to get different information about what is being sensed. No known creatures use LiDAR or radar for sensing, but it’s possible.
+
+There is also sonar (sound navigation and ranging), which works the same, measuring sound off objects. Like LiDAR and radar this is usually active. Some creatures use sonar type techniques to understand their environment. The human ear is capable of a certain amount of use like this, either passively (listening to changes in sound) or actively (either making sounds with the mouth or tapping or banging on something, then listening for echoes), and the brain can be trained to better interpret it.
+
+We have five senses, in effect categories of sensors. We collect information differently from each. But colourblindness, tetrachromatic vision, stignatism, near-sightedness, far-sightedness, blindness, and other differencies mean not all humans perceive the world the same, vision-wise. And similar differences exist for hearing and the other senses. When we try to define a single human perception of the world based on certain capabilities or limitations of sensing, we limit our understanding of human experience and intelligence to just one set, when, even among humans, it’s miriad.
+
+But just as image sensing isn’t limited to “normal” photography, sensing of the world isn’t limited to a single set of natural sensors. Different creatures have different experiences of the world around them.
+
+And intelligence is ultimately the understanding of the information available in the data collected by our natural sensors. Intelligence is akin to the analysis of the end result of the processing to imagery of the data collected by the sensor combined with metadata we know of the surrounding events of the collection.
+
+So intelligence follows from perception which follows from sensing, just as analysis follows from processing which follows from sensor collection.
+
+So to understand the intelligence of something, it’s necessary first to understand what senses are available to it, for it to learn from to build a general intelligence out of.
