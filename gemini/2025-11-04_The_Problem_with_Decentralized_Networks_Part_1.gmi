@@ -78,5 +78,6 @@ While we don’t have information on where the self managed nodes are most commo
 Solana isn’t near as dependent on AWS, or any one provider. It does depend heavily on two providers, Teraswitch, a US based company, and Latitude, a Brazilian company. Both of these have datacenters in numerous parts of the world, so this doesn’t lend clues as to how much provider concentration relates to geographic concentration.
 
 # Next:
-=> 2025-11-04_The_Problem_with_Decentralized_Networks_Part_2.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2
+=> 2025-11-24_The_Problem_with_Decentralized_Networks_Part_2.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2
 
+©2025 Bethany Davis

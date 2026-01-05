@@ -1,9 +1,14 @@
 # Bethany Davis
 
-Random topics from the mind of Bethany Davis.
+A gemlog of random topics from the mind of Bethany Davis.
+
+=> about.gmi A little about me.
 
 ## 2025
 
 => 2025-11-18_The_Problem_of_CDNs.gmi The Problem of CDNs (2025-11-18)
 => 2025-11-04_The_Problem_with_Decentralized_Networks_Part_1.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 1 (2025-11-04)
 => 2025-09-25_Sensors_Perception_and_Intelligence.gmi Sensors, Perception, and Intelligence (2025-09-25)
+=> 2025-11-24_The_Problem_with_Decentralized_Networks_Part_2.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2 (2025-11-24)
+
+©2025-2026 Bethany Davis

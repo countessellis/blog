@@ -1,0 +1,102 @@
+# The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2
+=> index.gmi Bethany Davis
+Novembet 24, 2025
+
+In Part 1, we looked at how dependent decentralized networks, cryptocurrency networks in particular, are on centralized networks. In part 2, we’ll start looking at the vulnerabilities of these centralized networks, and the type of things that can impact these.
+
+## Vulnerability of Infrastructure
+
+Regardless of whether nodes are in houses, in business data centers, in colocation data centers, or in cloud provider data centers, the threat to any given node, and hence the network in general, are threats to infrastructure. Cooling or power failures can take down datacenters. Power blackouts can take out cities or whole regions. Fiber cuts or telecommunication outages can cut off datacenters or regions from each other. Service failures or misconfigurations can take things down at any level. And any of these can be the result of a large range of sources, including human mistakes, storms, natural disasters, construction, sabotage, terrorism, nation state policy or internal actions, war, global pandemics, and many other unexpected events.
+
+Network connectivity is important for any type of network, as the name implies. A decentralized network still requires each node in the network to talk to other nodes. We’re all aware that residential network connectivity isn’t guaranteed. Even for datacenters, incidents or maintenance can interrupt the connection at any point, as well as between datacenters and between regions. And various issues not directly related to the network path itself, like capacity or name lookups can break things. This is the real threat to decentralized networks: events that interrupt the nodes talking to each other.
+
+=> 1.png Undersea Cables (image)
+=> https://www.submarinecablemap.com/ TeleGeography (source)
+
+These are all current undersea cables. Connected to these cables are land based backbone fiber lines that connect regions and areas. Because of the time and expense to lay cable undersea, the lines shown are more limited than on land, but even there, it is cost and space prehibitive to have the amount of lines found within a metro. Any cable that is cut can cause loss of connectivity. And repairing underwater cables takes much longer both to locate and to repair than on land.
+
+## Examples of Outages
+
+For brievity, or at least to keep this from being too long, we won’t dig into the details of each of these events, but what follows is a list of examples of some of the more common types of outage causes:
+
+### Internet Blackouts Caused by Hackers
+
+* 2016 Dyn DDOS
+* 2021 Liberia DDOS
+* 2024 Orange España Hack
+
+### Internet Outages Caused by Human Error
+
+* 2010 IDC China Telecom BGP Outage
+* 2017 Level 3 and Azure Outages
+* 2022 Roger Communications Outage
+* 2024 Croudstrike Caused Outage
+* 2025 AWS DNS Lookup Failures
+* 2025 CloudFlare Outage
+
+### Internet Outages Caused by Fiber Cuts
+
+* 2008 Egyptian Outage
+* 2011 Armenia Outage
+* 2024 Houthi Attack
+* 2025 Taliban Severing
+
+### Internet Outages Caused by Natural Disasters
+
+* 2006 Hengchun Earthquakes
+* 2011 Tōhoku earthquake and tsunami
+* 2019 Cyclone Fani
+* 2020 Hurricane Laura
+* 2023 Turkey – Syria Earthquakes
+
+### Countries That Shut Down Internet
+
+* 2009 Xinjiang Riots
+* 2011 Egyptian Revolution
+* 2019 Iranian Blackout
+* 2023 Manipur Violence
+* 2024 Russian Tests
+
+## Government Censorship
+
+The last set of examples brings us to one of the main points in the article, government censorship. This is important to consider for multiple reasons.
+
+First, one of the founding principles of cryptocurrency and blockchain was censorship resistance. The idea that every person has the right to transact, and cryptocurrencies as vehicles for allowing people to do so even when banks or governments might try to prevent it was very important in the founding of these decentralized networks. There is a reason when other types of decentralized networks, like Tor, which allows connectivity that is private as well as combating sensorship, are often in the same space as cryptocurrencies, and built on some of the same technologies and values. Decentralized networks as vehicles for censorship resistance makes them at times the target of censorship themselves.
+
+Second, censorship can affect things not intended as collateral damage. Even if a government or entity doesn’t intend to censor cryptocurrency or other decentralized networks, censoring other things can have a side affect of hampering or disrupting the decentralized network.
+
+There are many motivations for censorship, and many ways it can be implemented, across all extremes. A leader, government, company, or other entity can have all types of motivations for censorship. It might be on ethical grounds, to protect the people from perceived harm. It might be on ideological grounds, taboos and beliefs about what is right or wrong. Or it might be to protect information, either keeping a truth from being known or protecting secrets that could harm the country or entity if known.
+
+Some censorship is by policy, creating rules, some by technical means like network controls, and some is by force, including purposeful severing of fiber cables.
+
+=> 2.png The Countries Shutting Down the Internet the Most (image)
+=> https://www.statista.com/chart/15250/the-number-of-internet-shutdowns-by-country/ Statista (source)
+
+These are the countries that have performed partial blocks or full blackouts to censor part or all of their countries the most times. Others have as well, and while the probability varies by country, it is a potential threat in any country.
+
+One particular motivation for censorship I want to focus on is war. World War I and World War II, though long before the Internet or blockchain, illustrate what could happen. While there was censorship of international telegram services during both wars, and of what international telephone existed, there are few details, so these aren’t the best examples. Mail was the primary means of non-military communication still. As there are plenty of details about mail censorship, that will be where we focus.
+
+## Mail Censorship in World War I
+
+World War I marked the first point in history when mail monitoring and censorship moved from finding spies and sedition to also controlling the narrative, protecting secrets, and gaining intelligence. These were done before this at small scale, but not to the extent the Great War brought.
+
+During the War, Germany conducted extensive mail censorship, as well as telegram censorship. In February 1915, the Chief Censorship Bureau, under the Supreme High Command, was put in charge of these operations.
+
+In July 1914, Russia imposed censorship under military authority under the Temporary Decree on War Censorship. This included the press in addition to mail and telegrams.
+
+As the War progressed, the Hamburgs completely dropped all protections. Monitoring and censorship of letters, telegrams, phone calls was extensive. This was centralized under the War Press Office within the Ministry of War, who handled censorship, propaganda, and extracting intelligence from these mediums. They also handled press censorship and propaganda, as their name implies. They only performed these duties within war zones, but other agencies performed the same in those parts of the empire not within the war zones.
+
+Italy initially kept mail censorship to those between soldier and sailors in war zones and their families, but this was extended to all mail by the end of 1917.
+
+France’s mail censorship seems to have been restricted to those to and from soldiers only, not among civilians, but did include censoring of mail between American soldiers and home.
+
+While mail censorship in Great Britain didn’t hit its pace until the Defence of the Realm Act (DORA) of 1914, four days after Britain entered the War, it actually began before the Great War. Under Winston Churchill’s direction in 1911, inspection of incoming and outgoing international mail fell under scrutiny. Mail censorship was allowed under the Post Office Act of 1908, and the Telegraph Act of 1885 gave authority to censor telegraphs, and by extension telephone calls. The fear that sparked this was the possibility of German spies providing intelligence for preparations of a naval invasion. I don’t yet have much details of this time period.
+
+In August, 1914, Britain entered the War. Four days after, DORA 1914 was passed. This Act provided many provisions to legally allow Britian to increase their ability to both defend their nation and to wag war. One such provision legalized mail censorship beyond what the 1908 law allowed. Not only did it allow legal inspection and censorship of mail, both domestically and between Britain and other countries, it allowed other actions. British ships were allowed to, and proceeded to intercept ships from, to, or between neutral countries, forcing them to dock at British ports for inspection. This including inpections looking for smuggling to or from countries Britain was at war with, considered a violation of neutrality, as well as inspection of mail, looking for intelligence about Britain’s enemies and censoring information that would prove helpful to foreign intelligence.
+
+In the United States, the Espionage Act of 1917 served as the basis of both mail and cable censorship. Control of propaganda, false reports, and anything else seen as violating the Act was granted to the discretion of the Post Master General, who instructed all post masters to look for such material. The amendments to the Espionage Act informally known as the Sedition Act of 1918 expanded what the Postal Service was to look for.
+
+# Next:
+# The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 3: Censorship in World War II
+
+©2025 Bethany Davis
