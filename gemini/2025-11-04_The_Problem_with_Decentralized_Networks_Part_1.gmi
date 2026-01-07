@@ -80,4 +80,4 @@ Solana isn’t near as dependent on AWS, or any one provider. It does depend hea
 # Next:
 => 2025-11-24_The_Problem_with_Decentralized_Networks_Part_2.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2
 
-©2025 Bethany Davis
+### ©2025 Bethany Davis

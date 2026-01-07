@@ -1,0 +1,73 @@
+# Mail Censorship in World War II
+### The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2
+=> index.gmi Bethany Davis
+January 6, 2026
+
+Countries learned from the Great War, and perfected censorship in World War II. While no efforts at censorship will ever be absolute, the increase in effectiveness over the first war is striking.
+
+## Great Britian and the United States
+
+When Germany and the Soviet Union invaded Poland in September of 1939, in addition to Britain beginning mobilization, censorship of mail, telegraphs, and telephones was put under the director of Military Intelligence. In April of 1940, censorship was moved to the Ministry of Information. This expanded to its own department, the Postal and Telegraph Censorship Department.
+
+There were three portions:
+
+* Navel Censor, which was in charge of wireless passing over British territorial waters under Wireless Telegraph Foreign Ships Regulations of 1908,
+* Cable Telegraph Censor, which was in charge of anything over physical wires,
+* And Postal Censor, which was in charge of letters and packages.
+
+While the first two relate more to the main point we’re getting to, neither wired nor wireless communication had really developed far enough beyond military application to be the best comparison, as the work of these two weren’t nearly as extensive as the Postal Censor was, by necessity. There is also a lot less information on their operation. But the Postal Censor had a vast operation that gives a better analogy.
+
+At the the height of operation, the Postal Censor had at least five thousand people. Most of these were linguists, allowing the British government to get information and control its flow. As it does today, mail came into or out of Britain, and its territories, by sea or by air, being an island nation. Any ship that docked on or plane that landed or took off from British territory were required to allow any mail to be searched. As the range of planes were not as far as today, planes had to either fly the narrow routes across the Atlantic or land on an island. Britain controlled both the only direct route, into Canada, and the primary islands used for indirect routes.
+
+All mail leaving the British Isles for the United States were sent to Liverpool to be checked before leaving. All other mail was sent to London. These facilities were also where mail coming into the country were processed. Mail passing through were checked at ports and airports to limit the delay, as to not encourage neutral countries to avoid landing and docking. Neutral ships were rerouted by the British navy to the nearest port to perform the censorship, with the public reason clear, to make sure they weren’t helping the Axis powers and violating neutrality.
+
+Initially, the United States was neutral, and both Germany and Britain conducted extensive propaganda campaigns in the country, what we’d now call disinformation or interference, to try to nudge the US to enter the war on their side. The US government was not aware of the these campaigns by either country until much later. While this was going on, with it not yet a decided thing for the general public, British intelligence secretly began working with the White House and several levels of US government. This was primarily handled under British Security Cooperation (BSC) under William Stephenson, both the coordination and the propoganda. While there’s a lot more to this than I’ll go in here, part of the coordination brokered was censorship.
+
+It would have been problematic for the public to know about either the coordination that was happening or the censorship while the US was still neutral. And performing mail censorship, while beneficial both for British security and for controlling German influence, would have been hard to keep quiet inside the US. So the FBI and BSC, who helped oversee the Liverpool operations, came to an agreement for the British to perform the censorship and to provide useful information of value to the US as well as helping find Axis spies to the FBI.
+
+The Littlewoods Pools building in Liverpool, normally used by the football club, was used as the Postal Censor facility in the city. This, however, was getting more and more overwhelming, despite containing 1500 of the 5000 or more employees. Because most planes going from the British Isles to the United States landed in Bermuda, the Princess Hotel there was taken over, and much of the Liverpool operation moved to there instead.
+
+Similar was done in Trinidad and Gambia, the two ends of the southern route, and to a lesser extent all other British territories. As previously stated, this was both airborn and seaborn mail.
+
+=> /images/2026-01-06/1.png Atlantic Ferrying and Transport Routes Prior to December 1941 (image)
+=> https://www.ibiblio.org/hyperwar/AAF/I/AAF-I-9.html Army Air Forces in World War II: Vol. I: Plans & Early Operations, January 1939 to August 1942 (source)
+
+The above map is similar to the routes later into the war, which introduced only minor variations. The primary routes followed either the Northern Atlantic Route from Britian to Canada through Quebec, then down, the Mid-Atlantic Route through the Azores and Bermuda to the US, or the Southern Atlantic Route through Africa to Brazil, up through Trinidad to Puerto Rico and into the Continental US. Because Bermuda, Quebec, and Trinidad were the last stop before entering US territory, and the first after leaving the other way, they were the ideal points to process mail destined for or coming from the US. Bathurst in the Gambia served a similar role for mail passing through Africa, as most mail took the Bathurst to Natal route.
+
+By working with the British both leading up to the war and during it, the US could avoid the regulations which had become more restrictive between the wars. The US did conduct inspections of mail once the war started, but only those destined for or coming from Asia or Latin America by routes not being checked by the British.
+
+## Axis Powers
+
+Most of the details that are publicly known about censorship in World War II are regarding British censorship, but the US/GB partnership was not the only censorship occurring during the war. While there are less details, Axis Power censorship was also extensive.
+
+Censorship in Germany was even more strict than in the US and Great Britian. Not just was counter-intelligence to control the spread of information of importance, but German censorship also focused on influencing the writing of those authoring mail for propaganda and disinformation purposes, especially letters back from the Front. This combination of strict control of what information could be passed on one hand, and pressure to force the ideology and messages desired on the other resulted in a tight stranglehold on information.
+
+=> /images/2026-01-06/2.png Censorship Locations in Germany (image)
+=> https://booklife.com/download-excerpt/binary-data/PROJECT/excerpt/000/020/20437-1.pdf The German Postal System and Nazi Propaganda (source)
+
+Like with the British, specific censor stations processed mail going to specific destinations.
+
+Censorship in the Soviet Union ramped up starting about a month into the Winter War, and were even more stringent that Germany. The Soviets didn’t just try to protect secrets and drive the narrative, they took the control internally to a higher level, using censorship and propaganda to make the people believe in Soviet success and strength in the war.
+
+Censorship of all types were even stronger in Japan, controlling information amd narrative at all levels of life. This occurred in news, mail, radio, even schools, to a level not seen elsewhere in the war.
+
+Censorship in Italy didn’t pull back to the extent it did in other countries after World War I, and when the Fascist government took control in 1922, this censorship was adapted to help control public opinion of the regime. With the hold that it already held, no real change was needed for control when Italy entered the war. The main change was that Mussolini’s government began utilizing military correspondence to gage the morale and loyalty of the troops.
+
+In the civil war that started when Allied forces took Sicily. Attempts by the new government to impose censorship soon crumbled under public resistance.
+
+## Other Countries
+
+Most if not all countries not mentioned had some level of censorship, ether imposed by their government or by outside forces. The people in some were very much aware of these measures, but in others, they had little knowledge of it. This was the period of the widest spread censorship globally, unsurpassed before or since.
+
+## The Lesson
+
+While World War I only showed a taste of what widespread global censorship can look like, World War II paints a much clearer and more detailed picture. We have not had a World War since, but on more localized levels, as we talked about previously, we have seen the same trends. A government and a military cannot afford free spread of information in war time, and the larger the war, the more true this is.
+
+The above description is only part of the picture. Each country implemented this differently, depending on a balance of legal, social, and strategic factors, with it changing throughout the war as factors changed. Even at this time, censorship and disinformation went beyond just mail to telegraph and early telephone, as well as to other forms of communication. The focus depended on the wide spread adoption of the technology, not desire to focus one direction at a time.
+
+Next we will move beyond current and past events and discuss what a future war could look like, and the threats and impacts on decentralized networks, both purposeful and incidental.
+
+# Next:
+# The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 4: The Future of Wartime Censorship and Decentralized Networks
+
+### ©2026 Bethany Davis

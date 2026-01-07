@@ -97,6 +97,6 @@ In August, 1914, Britain entered the War. Four days after, DORA 1914 was passed.
 In the United States, the Espionage Act of 1917 served as the basis of both mail and cable censorship. Control of propaganda, false reports, and anything else seen as violating the Act was granted to the discretion of the Post Master General, who instructed all post masters to look for such material. The amendments to the Espionage Act informally known as the Sedition Act of 1918 expanded what the Postal Service was to look for.
 
 # Next:
-# The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 3: Censorship in World War II
+=> 2026-01-06_The_Problem_with_Decentralized_Networks_Part_3.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 3: Censorship in World War II
 
-©2025 Bethany Davis
+### ©2025 Bethany Davis

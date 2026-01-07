@@ -4,6 +4,10 @@ A gemlog of random topics from the mind of Bethany Davis.
 
 => about.gmi A little about me.
 
+## 2026
+
+=> 2026-01-06_The_Problem_with_Decentralized_Networks_Part_3.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 3: Mail Censorship in World War II (2026-01-06)
+
 ## 2025
 
 => 2025-11-24_The_Problem_with_Decentralized_Networks_Part_2.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2 (2025-11-24)
@@ -11,4 +15,4 @@ A gemlog of random topics from the mind of Bethany Davis.
 => 2025-11-04_The_Problem_with_Decentralized_Networks_Part_1.gmi The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 1 (2025-11-04)
 => 2025-09-25_Sensors_Perception_and_Intelligence.gmi Sensors, Perception, and Intelligence (2025-09-25)
 
-©2025-2026 Bethany Davis
+### ©2025-2026 Bethany Davis
