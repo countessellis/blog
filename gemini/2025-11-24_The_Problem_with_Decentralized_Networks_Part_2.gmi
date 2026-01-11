@@ -10,7 +10,7 @@ Regardless of whether nodes are in houses, in business data centers, in colocati
 
 Network connectivity is important for any type of network, as the name implies. A decentralized network still requires each node in the network to talk to other nodes. We’re all aware that residential network connectivity isn’t guaranteed. Even for datacenters, incidents or maintenance can interrupt the connection at any point, as well as between datacenters and between regions. And various issues not directly related to the network path itself, like capacity or name lookups can break things. This is the real threat to decentralized networks: events that interrupt the nodes talking to each other.
 
-=> 1.png Undersea Cables (image)
+=> images/2025-11-24/1.png Undersea Cables (image)
 => https://www.submarinecablemap.com/ TeleGeography (source)
 
 These are all current undersea cables. Connected to these cables are land based backbone fiber lines that connect regions and areas. Because of the time and expense to lay cable undersea, the lines shown are more limited than on land, but even there, it is cost and space prehibitive to have the amount of lines found within a metro. Any cable that is cut can cause loss of connectivity. And repairing underwater cables takes much longer both to locate and to repair than on land.
@@ -69,7 +69,7 @@ There are many motivations for censorship, and many ways it can be implemented, 
 
 Some censorship is by policy, creating rules, some by technical means like network controls, and some is by force, including purposeful severing of fiber cables.
 
-=> 2.png The Countries Shutting Down the Internet the Most (image)
+=> images/2025-11-24/2.png The Countries Shutting Down the Internet the Most (image)
 => https://www.statista.com/chart/15250/the-number-of-internet-shutdowns-by-country/ Statista (source)
 
 These are the countries that have performed partial blocks or full blackouts to censor part or all of their countries the most times. Others have as well, and while the probability varies by country, it is a potential threat in any country.
