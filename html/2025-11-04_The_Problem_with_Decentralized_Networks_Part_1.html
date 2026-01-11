@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<META charset=UTF-8>
+<TITLE>The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 1</TITLE>
+<LINK rel=stylesheet href=/default.css>
+<meta name=description content="<TITLE>The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 1</TITLE>">
+</HEAD>
+<BODY>
+<H1>The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 1</H1>
+<P><A HREF=index.html>Bethany Davis</A></P>
+<P>Novembet 4, 2025</P>
+<BR>
+<P>There’s an irony that this is temporally relevant. When I was gathering some of the dates, I didn’t expect to begin to have trouble reaching resources I was looking for caused by an outage that is yet another such example.</P>
+<BR>
+<P>And As I wrote, this expanded into a much longer post than I intended, so I’ll post it in parts instead.</P>
+<BR>
+<H2>The Problem with Decentralized Networks Depending on Centralized Infrastructure</H2>
+<BR>
+<P>The biggest threat to decentralized networks and services is not 51% attacks. It is not impersonations like those used for Sybil attacks. It is not the exploitation of vulnerabilities. These are threats, for sure, but not the biggest threat.</P>
+<BR>
+<P>The biggest threat is the building of decentralized networks and services on top of centralized networks and cloud platforms. The advantages of decentralization are lost completely when the centralized infrastructure fails.</P>
+<BR>
+<P>Talking about this threat and risk isn’t about doom and gloom. It isn’t about criticizing decentralized systems, or criticizing centralized systems. It is about understanding the threats and risks centralized systems face and understanding how to prevent decentralized systems from falling into the same traps.</P>
+<BR>
+<P>While cryptocurrency networks are only one type of decentralized system, they provide good examples that apply across others as well.</P>
+<BR>
+<P>Many of us have seen the phrase, „sufficiently decentralized,“ but is meant by that? Let’s consider first geographic decentralization.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/1.png ALT="Bitcoin Mining by Country 2025 (image)"></P>
+<P><A HREF=https://worldpopulationreview.com/country-rankings/bitcoin-mining-by-country>World Population Review (source)</A></P>
+<BR>
+<P>The largest portion of Bitcoin mining is done in the United States and in China, followed by Kazakhstan, China, and Russia. While many other countries include miners, the United States and China dominate the network. Some of these are individuals, some are organizations or companies.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/2.png ALT="Country Overall Hash Power in EH/s (image)"></P>
+<P><A HREF=https://chainbulletin.com/bitcoin-mining-map/>The Chain Bulletin (source)</A></P>
+<BR>
+<P>Outside the United States are clusters of mining with centres in multiple parts of the country. Most of mining is down in very concentrated areas. But as there are centres in multiple countries, plus a certain portion outside those areas, that’s good, right?</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/3.png ALT="Ethereum Nodes by Country (image)"></P>
+<P><A HREF=https://etherscan.io/nodetracker>Etherscan Nodetracker (source)</A></P>
+<BR>
+<P>According to Etherscan, distribution for Ethereum nodes is very similar. The United States and China are still the largest, but in this case, Germany is third, followed by Japan, France, and Canada.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/4.png ALT="Ethereum Network Topography (image)"></P>
+<P><A HREF=https://chainbound.grafana.net/public-dashboards/d001850804e1454fa24852c9dd82db97>Chainbound Real-Time Grafana (source)</A></P>
+<BR>
+<P>But the real-time map from Chainbound shows a bit of a different picture, more distributed, but with different parts of the globe showing the most nodes. It shows the United States and Germany with the most nodes, with a decent number of other countries having a decent amount.</P>
+<BR>
+<P>Regardless of which is most accurate, Ethereum looks good from a geographic distribution view.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/5.png ALT="Geographic Distribution of Solana Validators (image)"></P>
+<P><A HREF=https://igroza.github.io/Solana-Validator-IP-Geolocation/>Solana Validators (source)</A></P>
+<BR>
+<P>Solana shows a very similar distribution to Ethereum, but Germany leads the way, followed by the Netherlands, then Great Britian, then the United States as fourth. Distribution is much more concentrated in Europe as primary, then the US, with a much lower distribution in other portions of the world. From a geographic distribution this would seem bad, but which network is most resilient globally has more factors than just where it lands on the map.</P>
+<BR>
+<H2>Hosting Distribution of Cryptocurrency Networks</H2>
+<BR>
+<P>Another major aspect to consider is how diverse the platforms used for hosting nodes in a cryptocurrency network are. These fall into on-premises computers and cloud computing. On-premises computers run at a site owned or rented, or co-located in a data center. Cloud computing hosts the mining on remote servers. This is essentially the same as co-location, except that the person or engineer running the miner doesn’t have physical access.</P>
+<BR>
+<P>While some estimates for how many Bitcoin mining is done in the cloud are around 40%, there are no actual numbers. There aren’t even useful estimates of how much is mined in which cloud platform. But Bitcoin is by far the major chain least dependant on cloud providers. While this wasn’t always the case, Bitcoin is currently primarily mined by companies, and in some cases governments. This is because the difficulty has reached a point where the hardware needed requires more than most individuals who would want to mine can afford.</P>
+<BR>
+<P>For other chains, we have a lot more data.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/6.png ALT="Execution Layer Network Types (image)"></P>
+<P><IMG SRC=images/2025-11-04/7.png ALT="Consensus Layer Network Types (image)"></P>
+<P><A HREF=https://ethernodes.org/network-types>Ethernodes (source)</A></P>
+<BR>
+<P>In Ethereum’s current Proof-of-Stake system, execution nodes process transactions and smart contracts, and consensus nodes ensure network state, providing the agreement. The execution nodes are important for the network to perform its purposes, but it is the consensus nodes that make it a network and ensure consistency and security. Some nodes run one or the other, some run both.</P>
+<BR>
+<P>As the graphs show, execution nodes are predominantly residential, with hosted nodes second, but this is reversed for consensus, primarily due to largers resource requirements. In these graphs, for hosting, we’re primarily talking cloud based hosting. Because Ethereum doesn’t require the level of hardware Bitcoin does, due to the shift away from Proof-of-Work, cloud based hosting is a much more attractive option for this chain.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/8.png ALT="Ethereum Cloud Providers (image)"></P>
+<BR>
+<P>This image appeared on many articles after the recent Amazon Web Services (AWS) outage. It was originally also from Ethernodes, but the specific dashboard appears to no longer be available.</P>
+<BR>
+<P>The main takeaway is that AWS hosts the most nodes. This means an outage for all of AWS would greatly impact the network. There isn’t a good way to correlate this with specific regions with the data I can find. Ethereum in AWS falls under two categories. Some are self managed instances set up by the user. Others are using AWS’s hosted service.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/9.png ALT="AWS Regions Supporting Managed Blockchain (image)"></P>
+<P><A HREF=https://aws.amazon.com/managed-blockchain/pricing/ethereum/>Amazon Managed Blockchain for Ethereum (source)</A></P>
+<BR>
+<P>While we don’t have information on where the self managed nodes are most common, we do know the managed nodes. Northern Virginia, Seoul, Singapore, Tokyo, Ireland, and London are the only locales. This is fairly limited.</P>
+<BR>
+<P><IMG SRC=images/2025-11-04/10.png ALT="Solana Validator Hosting Providers by Stake (image)"></P>
+<P><A HREF=https://www.helius.dev/blog/solana-decentralization-facts-and-figures>Helius (source)</A></P>
+<BR>
+<P>Solana isn’t near as dependent on AWS, or any one provider. It does depend heavily on two providers, Teraswitch, a US based company, and Latitude, a Brazilian company. Both of these have datacenters in numerous parts of the world, so this doesn’t lend clues as to how much provider concentration relates to geographic concentration.</P>
+<BR>
+<H1>Next:</H1>
+<P><A HREF=2025-11-24_The_Problem_with_Decentralized_Networks_Part_2.html>The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 2</A></P>
+<BR>
+<H3>©2025 Bethany Davis</H3>
+</BODY>
+</HTML>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<META charset=UTF-8>
+<TITLE>The Problem of CDNs</TITLE>
+<LINK rel=stylesheet href=/default.css>
+<meta name=description content="<TITLE>The Problem of CDNs</TITLE>">
+</HEAD>
+<BODY>
+<H1>The Problem of CDNs</H1>
+<P><A HREF=index.html>Bethany Davis</A></P>
+<P>November 18, 2025</P>
+<BR>
+<P>While I haven’t posted part 2 of my series of posts on the reliance of decentralized networks on centralized infrastructure, today provides yet another good example, and once more shows we’re still not moving the right direction to be resilient.</P>
+<P><A HREF=2025-11-04_The_Problem_with_Decentralized_Networks_Part_1.html>(The Problem with Decentralized Networks Depending on Centralized Infrastructure, Part 1)</A></P>
+<BR>
+<P>Many might know, CloudFlare began experiencing an outage today. CloudFlare is currently one of the largest Content Delivery networks (CDN) in the world, after Akamai and AWS.</P>
+<BR>
+<P>For those unaware, a CDN is ultimately a large number of servers that cache webpages, static media like images, and streaming media to allow the content to be delivered from servers closer to and faster for users. They also help protect the source servers (called origin servers) from attacks or being overwhelmed by requests by distributing the traffic across the CDN servers and not allowing direct connections to the origin servers.</P>
+<BR>
+<P>Currently both traditional websites (generally called Web2 now, previously Web 2.0) and what are thought to be decentralized websites (generally called Web3 and based around cryptocurrency blockchains and other decentralized networks) depend on both traditional telecom for connectivity and often on CDNs for traffic.</P>
+<BR>
+<P>The CloudFlare outage, like the recent AWS outage, took out many Web3 services, not just Web2.</P>
+<BR>
+<P>Back before CloudFlare had the share it had, I worked in the CDN at Level 3. Most of the world for CDN ran on Level 3, Akamai, and Limelight. Level 3 got bought by CenturyLink after I left, which became Lumen, and Lumen got out of the CDN business a couple years ago. Limelight became Edgio and ceased operations earlier this year. Akamai survived, they own Linode now, and they bought a portion of Limelight assets when they went bankrupt last year. Akamai was first with Level 3 a close second. Verizon Edge, formally Edgecast before Verizon bought it, later sold off to Limelight, then when Edgio failed was rolled off and now EdgeCast again, was starting to rise to become fourth. Netflix was just starting building their own CDN, and hadn’t broken their alliance with Level 3 quite yet.</P>
+<BR>
+<P>Anyway, there was an outage, mostly caused by a few massive fiber cuts at the same time, plus if I recall a DDOS at the same time. Level 3’s intelligent traffic management (which was cool tech, by the way) in most of our customers’ chosen configs was designed to dump traffic to Akamai and/or Limelight in a Level 3 outage (the big ones had all three, but most traffic was on us because we were cheaper). So much traffic moved that Akamai and Limelight didn’t have the capacity, adding to the impact to them that the Level 3 fiber outages were also causing.</P>
+<BR>
+<P>The whole Internet went to its knees. A lot of lessons there, for me personally, but also in general. Today, it’s AWS, Akamai, and CloudFlare that have the bulk for CDN, telecom is separate but still the same risk to those.</P>
+<BR>
+<P><IMG SRC=images/2025-11-18/1.png ALT="Global CDN Services Market About $5B in 2023, Expected to Grow 3% In 2024, Driven by AWS (image)"></P>
+<P><A HREF=https://www.streamingmediablog.com/2024/07/cdn-market-size.html>Streaming Media Blog (source)</A></P>
+<BR>
+<P>Image is the closest to current I can find currently for market share. It’s from last year before Edgio died.</P>
+<BR>
+<H3>©2025 Bethany Davis</H3>
+</BODY>
+</HTML>
