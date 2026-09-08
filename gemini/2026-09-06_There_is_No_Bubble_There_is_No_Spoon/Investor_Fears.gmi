@@ -1,0 +1,215 @@
+# There is No Bubble, There is No Spoon
+=> index.gmi Bethany Davis
+September 6, 2026
+
+The famous line from the Matrix, "there is no spoon", was never about slight-of-hand or power over reality, it was always about perception. It was a visual symbol to help Neo understand that perception defines what we think we know. We analyze the world based on our preconceived notions of it and what we observe within our own context.
+
+    People tend to see what they expect to see,
+
+    That doesn't make it reality.
+
+It's easy to make the comparison between the Dot Com Bubble and what's seen as being what's happening with machine learning (ML) and artificial intelligence (AI). Expecting it to be the same focuses attention not on what's happening in reality but on when the perceived bubble will burst. The assumption is that the parallel between the Dot Com Bubble and now is a true comparison, that all that matters is short term (1-2 year) corporate gains, and that a bubble exists.
+
+That assumption is wrong. Like the spoon, there is no bubble. Unless of course my perception and assumptions are wrong.
+
+    People tend to see what they expect to see,
+
+    That doesn't make it reality.
+
+Table of Contents
+
+The Dot Com Bubble, the Housing Crisis, and the Banking Crisis
+
+The Artificial Intelligence Revolution
+
+The Banking Situation and the Funding of the Revolution
+
+The AI Arms Race
+
+Artificial Intelligence and the New Space Race
+
+Investor Fears and Expectations
+
+Beyond Large-Language Models
+
+The Future of the Revolution
+The Dot Com Bubble, the Housing Crisis, and the Banking Crisis
+
+Let's consider first the Dot Com Bubble and what really happened. I had friends working for Dot Com startups during that time, and worked at a couple startups for a time. It was an interesting time.
+
+The Dot Com era came out of the end of the Cold War. It was in many ways a new, different world, not as different as many thought at the time, just as 1950 broke some of the optimism after World War II, but it was new and it was different. A time of potential.
+
+The government focus on defense and oil of the '80s declined in the post-Cold War '90s. Two of the largest factors in the fall of the Soviet Union were the weapons race reaching a point the USSR couldn't counter and the dropping oil prices impacting its economy. With the Wall falling in '88 and the spiral and events of the four years following, these focuses were no longer needed, and investors and entrepreneurs turned elsewhere.
+
+The Internet moving public, allowing commercial use, was the beginning of the next era. It was opportunity, frontier. Speculation ran rampant. Investors and banks dumped large amounts of money into startups in hopes that a small percentage would make the losses worth while.
+
+The startups, for their part, were mostly not focused on a sustainable product. It was about growing fast, getting to a point where they were either bought out or successful enough to go public. The risks for founders was relatively low, if they failed, it was Venture Capital money that was lost, or loans that were defaulted on by the folding startup. The founders moved on to the next idea. There were whole companies by at least 2000, likely earlier, who based their business on the liquidation and arbitration of failed startups.
+
+The Venture Capitalists were the largest fuel in the fire, as they have continued to be for tech startups. As they only needed a small portion of their investments to succeed, they didn't care what failed, and didn't consider the risks when investing. Some did, and still do, of course. But the opportunity and energy were a big lure, and the aggregate risk wasn't large enough to offset the likely reward for the few successes. This isn't much different from the crypto industry after Bitcoin was created coming out of the 2008 Banking Crisis.
+
+The banks weren't clean-handed in this. In very real ways, the Dot Com Bust, Housing Crisis, and the 2008 Banking Crisis weren't disconnected events. Just as the Housing Crisis was brought about significantly by over-lending and under considering risk, the banks invested large amounts, in the form of loans, to both Venture Capitalists and startups. It was the strain caused by defaults and foreclosures on both areas that brought the banking system to a dangerous point. Government, which had mostly just let the free market function since the Cold War ended, had to step in at that point to fix things before the whole system crumbled.
+The Artificial Intelligence Revolution
+
+While the historian in me is tempted to continue with the period between 2008 and COVID, which has very interesting parallels and differences from the 1988 to 2008 era just discussed, we'll move on to the Artificial Intelligence Revolution.
+
+The Revolution had its roots all the way back to World War II, just as the Internet did, but just as the Internet didn't matter economically until a way to monetize it emerged, AI didn't matter to the masses or as a big business until the success of ChatGPT, provincially placing on the tail of COVID when many had spare time to play or experiment online, and things were starting to build back up again.
+
+This wasn't the beginning, AI has a long history.
+
+It wasn't the first Large-Language Model (LLM), depending in your definition, that goes to IBM in the '90s, Mikoliv in 2013, or Google in 2017.
+
+It wasn't even the beginning of OpenAI, which formed in 2015.
+
+OpenAI created their third generation GPT model in 2020, releasing it to the public as ChatGPT in 2022. This is the beginning of the current revolution.
+
+It's important first to consider the connection between the Dot Com era successes and the current revolution. Many of the AI players are the successes of that era, Amazon, Facebook, and Google, for instance. Microsoft is older, but weathered that era, coming out with more market share than before. Apple had a similar, if more rocky, course. OpenAI was founded mostly by previous Dot Com folks (Elon Musk succeeded with PayPal, Greg Brockman was from Stripe, a competitor of PayPal, Ilya Sutskever was working on AI at Google, Sam Altman was a founder of Loopt). Many of OpenAI's best minds on both AI and business came from Google or Facebook. Anthropic in effect spun off OpenAI. xAI was again Musk when he disagreed with OpenAI's direction.
+
+It can't be ignored that the big players in AI are those who weathered the Dot Com Bust or learned from those that did. This current acceleration isn't blind and reckless speculation, this is seasoned veterans in the industry making strategic decisions in what they see as a growth field. None of them are going to risk collapse of what they have to pursue a pipe dream. They are counting the risk and cost, being strategic, looking to a future point, not make or break in six to eighteen months.
+The Banking Situation and the Funding of the Revolution
+
+It is true that the banking system and financial system are fragile currently, like they were at the time of the Dot Com Bust, Housing Crisis, and Banking Crisis. In 2023, multiple banks collapsed, striking fears of another banking crisis. Part of this was contagion from the collapse of FTX, a cryptocurrency exchange, late the previous year. Part was from over extending on loans (similar to the previous banking crisis) combined with reliance on bonds that had unexpected lower yields. Panic causing a banking run was the catalyst that brought things down. The notable bank here is Silicon Valley Bank, which loaned to and held treasuries of many tech startups. Government bailouts and increases in interest rates mostly kept this crisis from growing.
+
+The economic conditions between 2023 and now have not improved conditions for banks. The right conditions or fiscal policy changes could send us down that path again, and there are evidence of a risk of a housing crisis as well. This is a dangerous place to be, economically.
+
+But it isn't as applicable to the AI revolution as it is to other industries or as it was to the Dot Coms. While it's true a lot of money is being invested in infrastructure and R&D with little to know immediate gains, this is not the circumstances we had roughly a quarter of a century ago.
+
+One reason for this is the aforementioned interest rates. While low interest rates are good for tech and innovation in general, as it encourages borrowing, increasing the capital to build with, which can be a boon for certain portions of the economy, it is what also tends to put strain on banks and cause inflation. But to combat inflation, interest rates are still high, making loans as primary funding mechanism less attractive to tech companies and many other segments.
+
+The money fueling the expansion is not primarily coming from the banks, so is not a major source of stress on the banks. Instead, much of the money is coming from what was surplus capital previously and from government funding.
+
+During the recovery in post-Dot Com era I skipped over, and especially during COVID, the tech sector enjoyed bounty, with a large amount of profit, often ending up in investor pockets, with a shortage of things for the companies to reinvest into. Much of this surplus is now being funneled into the expansion. This means outside funding is less needed, especially loans that would be at higher interest rates, but affects the immediate gains for investors. This last is important and we'll come back to it.
+
+The second source of funding is from the US Government (as well as Chinese-based and EU-based companies getting parallel from their own governments, and as well as Saudi and Emirate investments, and other countries like Singapore, Japan, and Canada). Under President Biden, money from efforts like the CHIP and Science Act helped with the climb, but the Stargate Project under President Trump really opened the floodgates, offsetting a significant portion of the profit loss that the build out and R&D demanded.
+
+The third source is similar to the Dot Com era, as it comes from private investors, both venture capitalists and more structured capital investment funding. The key difference here is that in the Dot Com era, and in cryptocurrency startups, the investment was much less strategic and calculated. This isn't investors throwing money in hope it sticks, this is investors with a vision of future profits funding an effort that could be sustainable.
+
+The final source is more a redistribution than a source. The funding discussed above isn't flowing in equally to all players, and different players bring different things to the table. Only certain companies are receiving government funding. Not all companies involved had surpluses. Investors don't typically invest evenly across the sector, they bet on the horses they think will win. And the playing field is global. Supply chain and location dictate a non-closed system.
+
+The Cloud providers like Amazon, Microsoft, Google, and Oracle aren't just building out for their own AI efforts. They are the platform for those who either can't build fast enough for their own needs, aren't ready to build, or don't want the overhead of running their own infrastructure. This means a cash flow from these companies to the Cloud providers, which they can turn around and invest in continuing to grow their infrastructure and in R&D in their own AI efforts.
+
+Hardware vendors, like Nvidia, Micron, AMD, and Dell, and construction companies don't get as much funding but are the main recipients of the money spent. Data centers are construction projects followed by hardware acquisition to fill them. This in turn helps the hardware companies develop more advanced systems to increase efficiency, capabilities, and capacity, and allow the construction companies to expand in scale and geographic presence to support more building.
+
+Companies that provide services don't always also do AI R&D. Companies like Palantir, Salesforce, and Notion use the LLM products of other companies in their own products. This in turn helps the LLM providers grow and advance, including investing in more hardware, construction, and/or Cloud resources.
+
+These are just some examples, and somewhat simplified from the total ecosystem and interactions.
+
+If you follow the money, you can see easily this isn't just a bunch of companies competing or a few companies holding a monopoly, it is an ecosystem where a company might be your vendor, competitor, and customer all at the same time, much like the telecommunications industry.
+The AI Arms Race
+
+Let's expand on the government funding portion, as this is an important piece to understand.
+
+There are two booms that are most often used as comparison currently as analysts and investors try to predict both the future of the AI revolution and the possibility of a bubble bursting. The first we've talked about, the Dot Com Boom and Bust. The second is the railroad expansion in the 1800s.
+
+While the Dot Com Boom was built on the Internet, which grew out of the Department of Defense funded ARPANET, the boom only occurred after the network moved out of government influence. Unlike the AI revolution, very little of the Dot Com funding came from government grants and subsidies. This is an important difference between the two.
+
+The railroad expansion did receive large amounts of government money, so is a better comparison in this context. A combination of government funds and incentives and influence came together with commercial funds and initiatives to cause a rapid expansion, much like the AI revolution.
+
+Where this gets interesting, though not to the point yet, is that there were five boom-bust periods for railroads in the United States (and many more regionally around the world). From the first boom in 1937 to the last major bust in 1909, this cycle was spread over 72 years, with the periods from boom to bust lasting 6, 2, 4, 7, and 5 years, an average of about 5 years, with an average of 17 years between.
+
+Similar comparison can be made to technological booms and busts (or at least leaps forward and lulls in advancement) between the end of World War II and 2017, roughly the same length of time. These happened closer to 10-20 years apart, with boom to must closer to 2-5 years, with seven noticeable periods of boom-bust. These can be stared in a simplified manner as (1) post-war industrial expansion, (2) the early space race, (3) integrated circuits, (4) personal computers, (5) the Dot Com Boom, (6) smartphones, and (7) cloud computing. So the railroad analogy with its cycles is not unique, only the details and regularity varying. The Dot Com Boom marks the fifth boom in this comparison, rather than as a distinct thing.
+
+This sounds on the surface like an argument for the current revolution, which can be marked as starting in 2022, to have already ended by now or ended by next year. Even accounting for an abnormally long period, it is easy to reach the conclusion that it's only a matter of time, with the sand in the hourglass running low.
+
+But this isn't the conclusion I've reached, and the main point around government funding is the reason why.
+
+This is how OpenAI began their announcement of the Stargate Project:
+
+    The Stargate Project is a new company which intends to invest $500 billion over the next four years building new AI infrastructure for OpenAI in the United States. We will begin deploying $100 billion immediately. This infrastructure will secure American leadership in AI, create hundreds of thousands of American jobs, and generate massive economic benefit for the entire world. This project will not only support the re-industrialization of the United States but also provide a strategic capability to protect the national security of America and its allies.
+
+Much of this statement is economic. In this, there are parallels with the railroad expansion. The subsidies from the US Government was mostly based on the potential of railroad expansion to accelerate economic development, shipping, and travel. But the last statement is the difference.
+
+While the railroad did benefit national security and military needs, that wasn't the main basis for the government support for it. While ARPANET was developed for its national security capabilities, the Dot Com Boom that built on the Internet that had developed from it was almost entirely commercial in nature. But this is different.
+
+Again:
+
+    This project will not only support the re-industrialization of the United States but also provide a strategic capability to protect the national security of America and its allies.
+
+The language at the time of the announcement wasn't primarily economic. Reference leading up to it was made by the President to the Manhattan Project, the need to, in a similar manner, coordinate and focus as a country. This wasn't just rhetoric, as the Stargate Project announcement confirmed.
+
+Unlike the Manhattan Project which was in a full war economy, completely government ran and funded, and conducted in extreme secrecy, the Stargate Project is a government funded corporation that funds the R&D and build-out for the partner companies, and completely unclassified. While the intent and metaphor are relevant, the parallel only goes so far. It does, however, illustrate the government focus here.
+
+A better parallel is probably the military contractors in the early Cold War. Still not a perfect parallel or metaphor, but the focus is the same. Just as the NATO countries and the Soviet Block stepped up production in the arms race of the Cold War, what we're watching isn't an economic bubble, it's an arms race.
+
+    This ain't a scene, it's an arms race. ~Fall Out Boys
+
+Many countries are focusing large amounts of money on the AI revolution, with companies in the US and China racing for supremacy. The race in other countries are not irrelevant, but they are, to an extent, side shows compared to the main event. The government funding in the US and China are massive, and not just for economic gains, though this is part of it.
+
+The main interest is in the capabilities AI brings to the game.
+
+If we're making the comparison, the Cold War effort lasted a quarter of a century initially, winding down in the '70s, then picked back up in the 80s for the Strategic Defense Initiative (SDI, aka the Starwars Project). Even with the wild swings as parties in the White House change, most government projects progress from one administration to the next. Both parties, at least those with national security awareness, understand the strategic importance of AI supremacy. The rhetoric may change, but initiatives are unlikely to end after the 2028 elections, or even after 2032. This is just the beginning.
+Artificial Intelligence and the New Space Race
+
+We can't separate the AI revolution from what's happening in aerospace currently. I'll talk later about varying types of artificial intelligence, a topic is quite relevant here, but, talking in general terms, machine learning and artificial intelligence are key in both commercial and nation state space expansion.
+
+One of the concerns and limitations for missions off planet, whether manned or autonomous, is communication. If a spacecraft, a vehicle or a facility on an off-earth body relies on communication with earth for tasking or operations, this is complicated both by the delay introduced by moving further and further away (the speed of light through a vacuum isn't instantaneous even on earth or in orbit, and becomes more impactful further out) and by line of sight concerns. The earth is spinning on its axis and moving in orbit around the sun. Anything not in a geosynchronous orbit has a changing window of contact with any earth-based antenna. Even a relay in orbit or further out is affected in this way, though some of this might be mitigated if the antenna is positioned strategically. In addition, other bodies, like the moon, sun, other planets, and any number of smaller bodies can block line of sight. Weather on earth can block line of sight depending on the frequency and conditions. And solar radiation and electromagnetic fields around planets or moons can interfere with the signal.
+
+All that to say, any operation or decision that can be made without waiting for successful communication makes a mission more successful. Manned missions offset this some, as the humans on board can make certain real time tactical decisions if distance or contact window timing don't allow waiting, but this is limited by the knowledge and skills of the crew, the information they have at the time, how fast they can calculate and assess, and the effects of stress and emotion. AI and machine learning introduce tools to address limitations and speed solutions.
+
+One of the early examples of using artificial intelligence and machine learning for space applications was by NASA around Mars. We still don't have manned missions to Mars, the vast distance and orbital patterns of earlier missions meant long periods of missed opportunities between the collection of imagery and readings, the transfer time of these back to Earth, Processing and analysis on the ground, then new tasking being transmitted back to Mars. The IKONOS spacecraft, developed at Lockheed Martin, the project having spun off as Space Imaging, Inc. who launched it as the first commercial satellite imagery satellite in orbit, then absorbed into GeoEye then DigitalGlobe (later Maxar and now Vantor) had similar image capabilities and characteristics to the imaging being used for orbital imaging of Mars. NASA trained on available images from IKONOS to determine what interesting geographic formations on earth looked like to find similar on Mars. With the delays in communication, NASA used AI to analyze images taken, looking for these patterns on-satellite, then used matches to retask the same satellite, task other satellites, and task surface aspects to investigate these formations of interest.
+
+In addition to communication concerns, as we move to more advanced space systems, calculations become complex. China's current plan includes having nuclear powered battleships in space by 2049. Other countries will likely follow suit if they aren't already working on the same. Commercial companies and nation states are looking at passenger-type applications, mining, manufacturing, and many other applications. Many of these require complexity modeling for navigation, orbit insertion and escape, avoiding collisions, and handling radiation and gas variations. Onboard real-time artificial intelligence can greatly aid both in a timely calculation or response and in accuracy.
+
+These are just some examples of how, as the new space race heats up, AI will form a very important contributor to success and acceleration. This is the reason xAI is heavily integrated into SpaceX, not just Tesla. It is why commercial satellite companies are accelerating onboard AI. And it is part of why China, the US, and Europe are all accelerating AI currently.
+Investor Fears and Expectations
+
+Earlier, I said we'd come back to the expectation of shorter-term gains from AI investment.
+
+I'm using this a little looser than the investment term "short-term capital gains". For tax purposes, this means gains realised within one year of investment. For example, if you sell a stock within one year of purchase, any profit for higher price at sell time than buy time would be a short-term gain. These are offset by short-term losses when selling at lower price. Some investors do expect this type of gain from AI expansion, expecting an investment in infrastructure, for instance, in the first quarter of the year bringing a profit in the fourth quarter of the same year. This shows a fundamental misunderstanding of the scale of the projects being conducted, when having that expectation occurs in the current context.
+
+Both short-term capital gains and long-term capital gains (anything over one year) are only useful for talking about the tax implications of a sale. For expectations here, I'm using "shorter-term gains" to indicate something else. A typical construction project at the scale of new data centers, while sometimes being completed much quicker and sometimes longer, is closer to three years on average. Until the construction is completed, the build-out to operational systems, and the allocation of computing tasks to it, are completed, any expectation of income profits for it is very misguided. Even after the data center is completed, it will take time to offset the investment and move to a point of making a profit off the investment.
+
+While ChatGPT kicked off the revolution in very real ways in 2022, much of the boom in the US began with the Stargate Project, and the deals between companies and with the government and investors that followed. Stargate was publicly announced in January of 2025. The only project that has completed a portion and become operational since then is in Abilene, Texas. Phase 1 was completed in September 2025, but began before Stargate went live. The first post-announcement site to start construction broke ground that same month. Phase 2 at Abilene is still in progress, as are all the other construction projects.
+
+As the projection for most Stargate sites to be operational is 2028, there can be no financial gains from the project until that time. We can't really consider if there are financial gains until somewhere between 2033 to 2038.
+
+Stargate is of course not the only source of funding, and some infrastructure expansions began before that. The increase in paying customers and total users with ChatGPT in 2022 was a proof of concept on a way to monetize some types of AI.
+
+Stepping back, the first purpose-built AI data center after ChatGPT proved there was an income generating market for AI beyond special built use cases was xAI's Colossus I in Tennessee. This data center was built very fast, breaking ground in June 2024 and becoming operational in September of the same year. Estimating again with 5-10 years for capital recouping, we're talking 2028 to 2033 for true gains from the investment.
+
+While Colossus I and Abilene Phase 1 are the same number of GPUs, the Abilene phase included two data centers rather than one at Colossus, with ground breaking to operational being just under 16 months compared to 4 months for Colossus. However, the cost was much higher in Abilene, as the GPUs, while having the same count, are more capable, likely providing around 2.5 times the AI computing power.
+
+All this to say, stocks lagging or dropping because of expectations that the large investments in construction and R&D haven't brought a profit yet are the result of unrealistic expectations, not reasonable timelines. Above, I focused purely on the construction and hardware portion. The time needed for the R&D portion also needs to be considered.
+
+We won't truly know if the investments were worth it until at soonest 2033, and maybe not until 2038 or later. It might prove to be a pipe dream for true profits, but any analysis of that this early is conjecture and speculation.
+Beyond Large-Language Models
+
+When most people, and especially the media and marketers, say AI currently, they are talking about Large-Language Models. If you just listen to the rhetoric and hype, it's easy to think that's all that's happening now, that all the investment, construction, research, and development talked about is purely LLMs, and talk of a bubble in relation to that seems fairly legit.
+
+Before I go further, for those not familiar with the weeds, LLMs are in essence a statistical representation of the way written language most commonly flows. But training the model on a very large volume of text, like a good portion of the Internet for instance, or large numbers of users interacting with previous iterations of the model, you can get a model that does a very good job of statistically predicting the next word, and the next after that (or, in reality, portions of words and groups of words). All the LLM is doing when you interact with it is generating the most likely next piece from what you give it. It makes an amazing interface, and has great potential for language-based interactions and generation.
+
+While LLMs are great tools, and while they are the most visible AI tool to the general public, they are only one application of machine learning and the resulting artificial intelligence. Because humans are social creatures, LLMs appear to the masses in ways other applications don't, and were the first that large numbers of individuals and companies would pay for without specific use cases.
+
+I recommend researching other applications, and won't go too far into them here, but some examples than many people may have heard about that they might or might not associate with AI are as follows:
+
+    Self-driving cars, autonomous unmanned vehicles (like drones, boats, submersibles, and aircraft).
+
+    Robotics that need to react, both in the form of robots and for things like robot arms in manufacturing.
+
+    Scheduling of moving vehicles for needed pickups and dropoffs (like Uber, Lyft, and DoorDash).
+
+    Voice recognition, face recognition, and other methods of identifying an individual as unique compared to other individuals.
+
+    Geographic formation detection like the NASA example above.
+
+There are practically unlimited applications for ML and AI, with our imagination, the hardware needed to handle the size of the workload, the data needed to train and to apply the result, and the time it takes to develop being the limiting factors.
+
+Ever since the first mechanical computers were built, the idea of thinking machines has been discussed. After World War II, various approaches have been developed. The application and usefulness was never debated or doubted.
+
+The success and feasibility was. AI didn't begin with LLMs, and it won't end with them. That is, as I said, purely the application that caught public attention as generally useful and people were willing to pay to use instead of paying to have a solution developed for a use case.
+
+When we talk about the build out of new infrastructure, that hardware isn't the special purpose hardware that was developed for some past ML or AI use cases. The hardware isn't specific to LLMs. Many, though not all, AI applications beyond LLMs can run on the same hardware. Companies aren't building for a fad hype for LLMs, they are building what's needed to run many types of workloads.
+
+Companies like OpenAI and Anthropic appear from the outside as LLM companies. However, they are really AI R&D companies, working on many different applications and use cases and approaches, with their LLM models being the most visible product.
+The Future of the Revolution
+
+Looking deeper at the AI revolution, the investment into infrastructure and research and development, and the breadth of the applications, we're just getting started. Looking only at the short term, even as long of short term as five to ten years, is a mistake. Looking at six months to a year, even more so.
+
+Not all companies involved in the revolution will survive. Not all technologies or applications will last. But make no mistake, the broader picture isn't a bubble or a fad, it's the beginning of something hard to fathom the end result of.
+
+Like the spoon, there is no bubble. Unless of course, as I said, my perception and assumptions are wrong.
+
+    People tend to see what they expect to see,
+
+    That doesn't make it reality.
+
+Vive la révolution.

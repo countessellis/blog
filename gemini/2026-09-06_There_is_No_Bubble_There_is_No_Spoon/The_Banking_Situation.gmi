@@ -1,0 +1,37 @@
+# There is No Bubble, There is No Spoon: The Banking Situation and the Funding of the Revolution
+=> index.gmi There is No Bubble, There is No Spoon
+September 6, 2026
+
+It is true that the banking system and financial system are fragile currently, like they were at the time of the Dot Com Bust, Housing Crisis, and Banking Crisis. In 2023, multiple banks collapsed, striking fears of another banking crisis. Part of this was contagion from the collapse of FTX, a cryptocurrency exchange, late the previous year. Part was from over extending on loans (similar to the previous banking crisis) combined with reliance on bonds that had unexpected lower yields. Panic causing a banking run was the catalyst that brought things down. The notable bank here is Silicon Valley Bank, which loaned to and held treasuries of many tech startups. Government bailouts and increases in interest rates mostly kept this crisis from growing.
+
+The economic conditions between 2023 and now have not improved conditions for banks. The right conditions or fiscal policy changes could send us down that path again, and there are evidence of a risk of a housing crisis as well. This is a dangerous place to be, economically.
+
+But it isn't as applicable to the AI revolution as it is to other industries or as it was to the Dot Coms. While it's true a lot of money is being invested in infrastructure and R&D with little to know immediate gains, this is not the circumstances we had roughly a quarter of a century ago.
+
+One reason for this is the aforementioned interest rates. While low interest rates are good for tech and innovation in general, as it encourages borrowing, increasing the capital to build with, which can be a boon for certain portions of the economy, it is what also tends to put strain on banks and cause inflation. But to combat inflation, interest rates are still high, making loans as primary funding mechanism less attractive to tech companies and many other segments.
+
+The money fueling the expansion is not primarily coming from the banks, so is not a major source of stress on the banks. Instead, much of the money is coming from what was surplus capital previously and from government funding.
+
+During the recovery in post-Dot Com era I skipped over, and especially during COVID, the tech sector enjoyed bounty, with a large amount of profit, often ending up in investor pockets, with a shortage of things for the companies to reinvest into. Much of this surplus is now being funneled into the expansion. This means outside funding is less needed, especially loans that would be at higher interest rates, but affects the immediate gains for investors. This last is important and we'll come back to it.
+
+The second source of funding is from the US Government (as well as Chinese-based and EU-based companies getting parallel from their own governments, and as well as Saudi and Emirate investments, and other countries like Singapore, Japan, and Canada). Under President Biden, money from efforts like the CHIP and Science Act helped with the climb, but the Stargate Project under President Trump really opened the floodgates, offsetting a significant portion of the profit loss that the build out and R&D demanded.
+
+The third source is similar to the Dot Com era, as it comes from private investors, both venture capitalists and more structured capital investment funding. The key difference here is that in the Dot Com era, and in cryptocurrency startups, the investment was much less strategic and calculated. This isn't investors throwing money in hope it sticks, this is investors with a vision of future profits funding an effort that could be sustainable.
+
+The final source is more a redistribution than a source. The funding discussed above isn't flowing in equally to all players, and different players bring different things to the table. Only certain companies are receiving government funding. Not all companies involved had surpluses. Investors don't typically invest evenly across the sector, they bet on the horses they think will win. And the playing field is global. Supply chain and location dictate a non-closed system.
+
+The Cloud providers like Amazon, Microsoft, Google, and Oracle aren't just building out for their own AI efforts. They are the platform for those who either can't build fast enough for their own needs, aren't ready to build, or don't want the overhead of running their own infrastructure. This means a cash flow from these companies to the Cloud providers, which they can turn around and invest in continuing to grow their infrastructure and in R&D in their own AI efforts.
+
+Hardware vendors, like Nvidia, Micron, AMD, and Dell, and construction companies don't get as much funding but are the main recipients of the money spent. Data centers are construction projects followed by hardware acquisition to fill them. This in turn helps the hardware companies develop more advanced systems to increase efficiency, capabilities, and capacity, and allow the construction companies to expand in scale and geographic presence to support more building.
+
+Companies that provide services don't always also do AI R&D. Companies like Palantir, Salesforce, and Notion use the LLM products of other companies in their own products. This in turn helps the LLM providers grow and advance, including investing in more hardware, construction, and/or Cloud resources.
+
+These are just some examples, and somewhat simplified from the total ecosystem and interactions.
+
+If you follow the money, you can see easily this isn't just a bunch of companies competing or a few companies holding a monopoly, it is an ecosystem where a company might be your vendor, competitor, and customer all at the same time, much like the telecommunications industry.
+
+=> The_Artifical_Intelligence_Revolution.gmi Previous: The Artificial Intelligence Revolution
+=> The_AI_Arms_Race.gmi Next: The AI Arms Race
+
+### ©2026 Bethany Davis
+

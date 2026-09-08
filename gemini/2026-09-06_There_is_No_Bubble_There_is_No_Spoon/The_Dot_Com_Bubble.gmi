@@ -1,0 +1,22 @@
+# There is No Bubble, There is No Spoon: The Dot Com Bubble, the Housing Crisis, and the Banking Crisis
+=> index.gmi There is No Bubble, There is No Spoon
+September 6, 2026
+
+Let's consider first the Dot Com Bubble and what really happened. I had friends working for Dot Com startups during that time, and worked at a couple startups for a time. It was an interesting time.
+
+The Dot Com era came out of the end of the Cold War. It was in many ways a new, different world, not as different as many thought at the time, just as 1950 broke some of the optimism after World War II, but it was new and it was different. A time of potential.
+
+The government focus on defense and oil of the '80s declined in the post-Cold War '90s. Two of the largest factors in the fall of the Soviet Union were the weapons race reaching a point the USSR couldn't counter and the dropping oil prices impacting its economy. With the Wall falling in '88 and the spiral and events of the four years following, these focuses were no longer needed, and investors and entrepreneurs turned elsewhere.
+
+The Internet moving public, allowing commercial use, was the beginning of the next era. It was opportunity, frontier. Speculation ran rampant. Investors and banks dumped large amounts of money into startups in hopes that a small percentage would make the losses worth while.
+
+The startups, for their part, were mostly not focused on a sustainable product. It was about growing fast, getting to a point where they were either bought out or successful enough to go public. The risks for founders was relatively low, if they failed, it was Venture Capital money that was lost, or loans that were defaulted on by the folding startup. The founders moved on to the next idea. There were whole companies by at least 2000, likely earlier, who based their business on the liquidation and arbitration of failed startups.
+
+The Venture Capitalists were the largest fuel in the fire, as they have continued to be for tech startups. As they only needed a small portion of their investments to succeed, they didn't care what failed, and didn't consider the risks when investing. Some did, and still do, of course. But the opportunity and energy were a big lure, and the aggregate risk wasn't large enough to offset the likely reward for the few successes. This isn't much different from the crypto industry after Bitcoin was created coming out of the 2008 Banking Crisis.
+
+The banks weren't clean-handed in this. In very real ways, the Dot Com Bust, Housing Crisis, and the 2008 Banking Crisis weren't disconnected events. Just as the Housing Crisis was brought about significantly by over-lending and under considering risk, the banks invested large amounts, in the form of loans, to both Venture Capitalists and startups. It was the strain caused by defaults and foreclosures on both areas that brought the banking system to a dangerous point. Government, which had mostly just let the free market function since the Cold War ended, had to step in at that point to fix things before the whole system crumbled.
+
+=> index.gmi Previous: There is No Bubble, There is No Spoon
+=> The_Future_of_the_Revolution.gmi Next: The Future of the Revolution
+
+### ©2026 Bethany Davis

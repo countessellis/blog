@@ -1,0 +1,24 @@
+# There is No Bubble, There is No Spoon: The Artificial Intelligence Revolution
+=> index.gmi There is No Bubble, There is No Spoon
+September 6, 2026
+
+While the historian in me is tempted to continue with the period between 2008 and COVID, which has very interesting parallels and differences from the 1988 to 2008 era just discussed, we'll move on to the Artificial Intelligence Revolution.
+
+The Revolution had its roots all the way back to World War II, just as the Internet did, but just as the Internet didn't matter economically until a way to monetize it emerged, AI didn't matter to the masses or as a big business until the success of ChatGPT, provincially placing on the tail of COVID when many had spare time to play or experiment online, and things were starting to build back up again.
+
+This wasn't the beginning, AI has a long history.
+
+It wasn't the first Large-Language Model (LLM), depending in your definition, that goes to IBM in the '90s, Mikoliv in 2013, or Google in 2017.
+
+It wasn't even the beginning of OpenAI, which formed in 2015.
+
+OpenAI created their third generation GPT model in 2020, releasing it to the public as ChatGPT in 2022. This is the beginning of the current revolution.
+
+It's important first to consider the connection between the Dot Com era successes and the current revolution. Many of the AI players are the successes of that era, Amazon, Facebook, and Google, for instance. Microsoft is older, but weathered that era, coming out with more market share than before. Apple had a similar, if more rocky, course. OpenAI was founded mostly by previous Dot Com folks (Elon Musk succeeded with PayPal, Greg Brockman was from Stripe, a competitor of PayPal, Ilya Sutskever was working on AI at Google, Sam Altman was a founder of Loopt). Many of OpenAI's best minds on both AI and business came from Google or Facebook. Anthropic in effect spun off OpenAI. xAI was again Musk when he disagreed with OpenAI's direction.
+
+It can't be ignored that the big players in AI are those who weathered the Dot Com Bust or learned from those that did. This current acceleration isn't blind and reckless speculation, this is seasoned veterans in the industry making strategic decisions in what they see as a growth field. None of them are going to risk collapse of what they have to pursue a pipe dream. They are counting the risk and cost, being strategic, looking to a future point, not make or break in six to eighteen months.
+
+=> The_Dot_Com_Bubble.gmi Previous: The Dot Com Bubble, the Housing Crisis, and the Banking Crisis
+=> The_Banking_Situation.gmi Next: The Banking Situation and the Funding of the Revolution
+
+### ©2026 Bethany Davis

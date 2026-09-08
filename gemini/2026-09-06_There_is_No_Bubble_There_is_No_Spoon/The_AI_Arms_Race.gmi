@@ -1,0 +1,51 @@
+# There is No Bubble, There is No Spoon: The AI Arms Race
+=> index.gmi There is No Bubble, There is No Spoon
+September 6, 2026
+
+Let's expand on the government funding portion, as this is an important piece to understand.
+
+There are two booms that are most often used as comparison currently as analysts and investors try to predict both the future of the AI revolution and the possibility of a bubble bursting. The first we've talked about, the Dot Com Boom and Bust. The second is the railroad expansion in the 1800s.
+
+While the Dot Com Boom was built on the Internet, which grew out of the Department of Defense funded ARPANET, the boom only occurred after the network moved out of government influence. Unlike the AI revolution, very little of the Dot Com funding came from government grants and subsidies. This is an important difference between the two.
+
+The railroad expansion did receive large amounts of government money, so is a better comparison in this context. A combination of government funds and incentives and influence came together with commercial funds and initiatives to cause a rapid expansion, much like the AI revolution.
+
+Where this gets interesting, though not to the point yet, is that there were five boom-bust periods for railroads in the United States (and many more regionally around the world). From the first boom in 1937 to the last major bust in 1909, this cycle was spread over 72 years, with the periods from boom to bust lasting 6, 2, 4, 7, and 5 years, an average of about 5 years, with an average of 17 years between.
+
+Similar comparison can be made to technological booms and busts (or at least leaps forward and lulls in advancement) between the end of World War II and 2017, roughly the same length of time. These happened closer to 10-20 years apart, with boom to must closer to 2-5 years, with seven noticeable periods of boom-bust. These can be stared in a simplified manner as (1) post-war industrial expansion, (2) the early space race, (3) integrated circuits, (4) personal computers, (5) the Dot Com Boom, (6) smartphones, and (7) cloud computing. So the railroad analogy with its cycles is not unique, only the details and regularity varying. The Dot Com Boom marks the fifth boom in this comparison, rather than as a distinct thing.
+
+This sounds on the surface like an argument for the current revolution, which can be marked as starting in 2022, to have already ended by now or ended by next year. Even accounting for an abnormally long period, it is easy to reach the conclusion that it's only a matter of time, with the sand in the hourglass running low.
+
+But this isn't the conclusion I've reached, and the main point around government funding is the reason why.
+
+This is how OpenAI began their announcement of the Stargate Project:
+
+>> The Stargate Project is a new company which intends to invest $500 billion over the next four years building new AI infrastructure for OpenAI in the United States. We will begin deploying $100 billion immediately. This infrastructure will secure American leadership in AI, create hundreds of thousands of American jobs, and generate massive economic benefit for the entire world. This project will not only support the re-industrialization of the United States but also provide a strategic capability to protect the national security of America and its allies.
+
+Much of this statement is economic. In this, there are parallels with the railroad expansion. The subsidies from the US Government was mostly based on the potential of railroad expansion to accelerate economic development, shipping, and travel. But the last statement is the difference.
+
+While the railroad did benefit national security and military needs, that wasn't the main basis for the government support for it. While ARPANET was developed for its national security capabilities, the Dot Com Boom that built on the Internet that had developed from it was almost entirely commercial in nature. But this is different.
+
+Again:
+
+>> This project will not only support the re-industrialization of the United States but also provide a strategic capability to protect the national security of America and its allies.
+
+The language at the time of the announcement wasn't primarily economic. Reference leading up to it was made by the President to the Manhattan Project, the need to, in a similar manner, coordinate and focus as a country. This wasn't just rhetoric, as the Stargate Project announcement confirmed.
+
+Unlike the Manhattan Project which was in a full war economy, completely government ran and funded, and conducted in extreme secrecy, the Stargate Project is a government funded corporation that funds the R&D and build-out for the partner companies, and completely unclassified. While the intent and metaphor are relevant, the parallel only goes so far. It does, however, illustrate the government focus here.
+
+A better parallel is probably the military contractors in the early Cold War. Still not a perfect parallel or metaphor, but the focus is the same. Just as the NATO countries and the Soviet Block stepped up production in the arms race of the Cold War, what we're watching isn't an economic bubble, it's an arms race.
+
+>> This ain't a scene, it's an arms race. ~Fall Out Boys
+
+Many countries are focusing large amounts of money on the AI revolution, with companies in the US and China racing for supremacy. The race in other countries are not irrelevant, but they are, to an extent, side shows compared to the main event. The government funding in the US and China are massive, and not just for economic gains, though this is part of it.
+
+The main interest is in the capabilities AI brings to the game.
+
+If we're making the comparison, the Cold War effort lasted a quarter of a century initially, winding down in the '70s, then picked back up in the 80s for the Strategic Defense Initiative (SDI, aka the Starwars Project). Even with the wild swings as parties in the White House change, most government projects progress from one administration to the next. Both parties, at least those with national security awareness, understand the strategic importance of AI supremacy. The rhetoric may change, but initiatives are unlikely to end after the 2028 elections, or even after 2032. This is just the beginning.
+
+=> The_Banking_Situation.gmi Previous: The Banking Situation and the Funding of the Revolution
+=> The_Space_Race.gmi Next: Artificial Intelligence and the New Space Race
+
+### ©2026 Bethany Davis
+
